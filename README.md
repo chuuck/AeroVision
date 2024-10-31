@@ -18,10 +18,12 @@ The project aims to also explore different stages of ML model development:
 
 ### Dataset Overview
 
-| Class 1 | Class 2 | Class 3 | Class 4 |
+| Aiport | Forest | Center | Stadium |
 | --- | --- | --- | --- |
-| ![Class 1: Aerial View](./data/images/class1/image1.jpg) | ![Class 2: Building](./data/images/class2/image2.jpg) | ![Class 3: Road](./data/images/class3/image3.jpg) | ![Class 4: Tree](./data/images/class4/image4.jpg) |
-| ![Class 5: Car](./data/images/class5/image5.jpg) | ![Class 6: Person](./data/images/class6/image6.jpg) | ![Class 7: Bike](./data/images/class7/image7.jpg) | ![Class 8: Bus](./data/images/class8/image8.jpg) |
+| ![Class 1: Airport](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/airport_17.jpg) | ![Class 2: Forest](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/forest_11.jpg) | ![Class 3: Center](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/center_13.jpg) | ![Class 4: Stadium](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/stadium_13.jpg) |
+| ![Class 1: Airport](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/airport_4.jpg) | ![Class 2: Forest](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/forest_14.jpg) | ![Class 3: Center](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/center_6.jpg) | ![Class 4: Stadium](https://github.com/chuuck/AeroVision/blob/main/dataset_demo/stadium_6.jpg) |
+
+
 
 ### Dataset Analysis
 
